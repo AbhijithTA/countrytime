@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abhijith.github.io/countrytime",
+  "homepage": "https://abhijithta.github.io/countrytime/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
